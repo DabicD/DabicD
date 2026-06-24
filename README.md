@@ -6,5 +6,4 @@
 <p align="center">Building commercial Apps since 2021<br/></p>
 
 <br/>🌍 I'm based in Łódź
-<br/>🌱 I’m currently learning skills to become Fullstack Developer
 <br/>📫 Reach me at **danieldabic99@gmail.com**
